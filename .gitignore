@@ -1,0 +1,4 @@
+# Project exclude paths
+/Algorithm/target/
+/Kafka/target/
+/mybatisplus/target/
